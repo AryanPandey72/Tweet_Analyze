@@ -1,5 +1,7 @@
 streamlit
-pandas
 tensorflow
 keras-nlp
 scikit-learn
+matplotlib
+pandas
+numpy
