@@ -1,7 +1,9 @@
+--no-deps
+tensorflow==2.15.0
+keras-nlp==0.6.1
 streamlit
-tensorflow
-keras-nlp
-scikit-learn
-matplotlib
 pandas
 numpy
+matplotlib
+scikit-learn
+seaborn
